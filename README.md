@@ -11,7 +11,8 @@ I'm a Senior Data Analyst with 4+ years of experience in analytics, and 11 years
 I build dashboards, automate reporting processes, and turn raw data into actionable insights that improve business efficiency.
 
 🔹 Projects:
-(Coming soon – currently building 5 end-to-end data projects)
+- HR Analytics Dashboard || SQL, Power BI
+- Credit Card Frayd Detection || SQL, Python
 
 🔹 Connect with me:
 LinkedIn: [[Link]](https://www.linkedin.com/in/mohammad-sahir-b3083a14b/)
