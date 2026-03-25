@@ -14,4 +14,4 @@ I build dashboards, automate reporting processes, and turn raw data into actiona
 (Coming soon – currently building 5 end-to-end data projects)
 
 🔹 Connect with me:
-LinkedIn: [[your link]](https://www.linkedin.com/in/mohammad-sahir-b3083a14b/)
+LinkedIn: [[Link]](https://www.linkedin.com/in/mohammad-sahir-b3083a14b/)
